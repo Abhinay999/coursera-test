@@ -13,7 +13,7 @@
            border: 3px solid black;
            background-color: #746c80;
            width: 100%;
-           height: 150px;
+           height: 180px;
            margin-right: auto;
            margin-left: auto;
            font-family: Helvetica;
@@ -64,6 +64,7 @@
        
        .content {
            padding-top: 30px;
+           padding-left: 10px;
        }
        /* Simple Responsive Framework. */
        
