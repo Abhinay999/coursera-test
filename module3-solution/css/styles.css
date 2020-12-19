@@ -1,0 +1,90 @@
+body {
+    background-color: rgba(252, 243, 164, 0.863);
+}
+
+#heading {
+    margin: 5vh 5vh 5vh 5vh;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 2.2em;
+    text-align: center;
+    line-height: 0.75;
+}
+
+.container h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+.container div.para p {
+    padding: 10px;
+}
+
+.content {
+    background-color: rgb(235, 188, 127);
+}
+
+
+/* HEADER */
+
+#header-nav {
+    background-color: rgb(253, 46, 46);
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand {
+    /* padding-top: 15px;
+    padding-bottom: 15px; */
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.navbar-brand h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: burlywood;
+    font-size: 2em;
+    text-shadow: 1px, 1px, 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0.75;
+}
+
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.navbar-toggle,
+.icon-bar {
+    /* background-color: rgb(253, 46, 46); */
+    border: 2px solid burlywood;
+}
+
+.container button {
+    margin-top: 20px;
+}
+
+#nav-list {
+    color: burlywood;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+#nav-list li {
+    border: 2px solid burlywood;
+    margin: 2px 0px;
+}
+
+#nav-list li:hover {
+    color: rgb(253, 46, 46);
+    background-color: burlywood;
+}
